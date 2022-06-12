@@ -6,7 +6,7 @@ Hi!  Welcome to My Projects 👋
 
 - 📫 How to reach me: www.linkedin.com/in/alicengizk
 
-<img src="https://github.com/alicengizk/alicengizk/raw/main/e3577c0dbda0e1d853f4c7ac50aa2915.gif" width="auto">
+<img src="https://github.com/alicengizk/alicengizk/raw/main/tumblr_6f3cdcacd367af92338a938c1eef19d7_92019713_500.webp" width="auto">
 
 <img src="https://github.com/alicengizk/alicengizk/raw/main/github-contribution-grid-snake.gif" width="auto">
 
