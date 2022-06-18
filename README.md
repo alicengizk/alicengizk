@@ -1,10 +1,12 @@
 Hi!  Welcome to My Projects 👋
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning (QA) Full Stack Automation Engineering
-- 💪 2022 goals: Learn to code. ✨ To bring out quality projects.
+🔭 I’m Full Stack Automation Engineer
 
-- 📫 How to reach me: www.linkedin.com/in/alicengizk
+🌱 I'm working on a project with framework TestNG and Cucumber
+
+💪 2022 goals: Learn to code. ✨ To bring out quality projects.
+
+📫 How to reach me: www.linkedin.com/in/alicengizk
 
 <img src="https://github.com/alicengizk/alicengizk/raw/main/tumblr_6f3cdcacd367af92338a938c1eef19d7_92019713_500.webp" width="auto">
 
